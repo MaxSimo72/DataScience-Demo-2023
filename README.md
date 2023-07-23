@@ -5,3 +5,5 @@ This is my portfolio project
 
 ## Interesting Graph
 
+## My Notebook
+* [Run my Colab Notebook](https://colab.research.google.com/github/MaxSimo72/DataScience-Demo-2023/blob/main/data_science_notebook.ipynb)
