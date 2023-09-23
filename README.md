@@ -1,5 +1,6 @@
 # DataScience-Demo-2023
 This is my portfolio project
+[![Python application test with Github Actions](https://github.com/MaxSimo72/DataScience-Demo-2023/actions/workflows/main.yml/badge.svg)](https://github.com/MaxSimo72/DataScience-Demo-2023/actions/workflows/main.yml)
 
 ## Background
 I considered X, Y, Z
